@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jopanalv
+- 👋 Hi, I’m Jovan Alvado A.M
 - 👀 I’m interested in Web Development especially Back-end
 - 🌱 I’m currently learning Javascript
 
