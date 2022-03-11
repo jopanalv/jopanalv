@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jopanalv
 - 👀 I’m interested in Web Development especially Back-end
-- 🌱 I’m currently learning Node.js
+- 🌱 I’m currently learning Javascript
 
 <!---
 jopanalv/jopanalv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
